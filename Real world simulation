@@ -1,0 +1,2 @@
+Experiment set up: The experiment is built on on real dataset eyedata provided by the NormalBetaPrime package. This dataset contains gene expression data of $200$ genes for $120$ samples. The data
+originates from microarray experiments of mammalian eye tissue samples. We randomly divide the data into training sample set with size $80$ and test data set with size $40$ and do the Monte Carlo with $10$ repetition.
